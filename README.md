@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Guilherme
+## Olá! Eu sou o Jotta
  <div>
   <a href="https://github.com/jottabatista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jottabatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
