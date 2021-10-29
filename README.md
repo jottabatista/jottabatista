@@ -1,10 +1,10 @@
-## Olá Mundo 👋 Eu sou Jotta
+### Olá Mundo 👋 Eu sou Jotta
 
-🔭 I’m currently working on studying
-🌱 I’m currently learning java and javascript
-📫 How to reach me: batistadm01@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I love triathlon.
+- 🔭 I’m currently working on studying
+- 🌱 I’m currently learning java and javascript
+- 📫 How to reach me: batistadm01@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love triathlon.
  <div>
   <a href="https://github.com/jottabatista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jottabatista&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
