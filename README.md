@@ -1,6 +1,6 @@
 ### Olá Mundo 👋 Eu sou Jotta
 
-- 🔭 I’m currently working on studying
+- 🔭 I’m currently on studying
 - 🌱 I’m currently learning java and javascript
 - 📫 How to reach me: batistadm01@gmail.com
 - 😄 Pronouns: He/Him
@@ -24,4 +24,6 @@
   <a href = "batistadm01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jotabatista01/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+ ![Snake animation](https://github.com/jottabatista/jottabatista/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
